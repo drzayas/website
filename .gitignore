@@ -11,7 +11,6 @@ config/config.local.php
 /config/cert_key.pem
 /config/sdk_config.ini
 
-/composer.lock
 /deployment.properties
 /node_modules
 /scripts/redis/*.hash
